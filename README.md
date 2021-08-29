@@ -1,5 +1,5 @@
 # Image-Captioning
-Image Captioning using Deep-Learning
+Image Captioning using Deep-Learning with a web app interface
 
 ## Interface
 
@@ -8,6 +8,9 @@ Image Captioning using Deep-Learning
 <br>
 
 ![interface](imagecapSS2_new.png)
+
+#### Click on Browse button to choose an image
+
 
 <br>
 
