@@ -4,4 +4,4 @@ Image Captioning using Deep-Learning
 Interface:
 
 
-![]("Media/Screenshot 2021-05-19 112807.png")
+![interface]("https://github.com/YuvrajSingh-16/Image-Captioning/blob/main/Screenshot%202021-05-19%20112807.png")
