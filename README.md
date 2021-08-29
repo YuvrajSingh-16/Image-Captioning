@@ -9,8 +9,7 @@ Image Captioning using Deep-Learning with a web app interface
 
 ![interface](imagecapSS2_new.png)
 
-#### Click on Browse button to choose an image
-
+#### Click on "Browse Files" button to choose an image
 
 <br>
 
