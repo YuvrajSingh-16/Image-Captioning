@@ -4,4 +4,4 @@ Image Captioning using Deep-Learning
 Interface:
 
 
-![interface](imgcapSS1.png)
+![interface](imagecapSS1.png)
