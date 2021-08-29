@@ -3,11 +3,11 @@ Image Captioning using Deep-Learning
 
 ## Interface
 
-![interface](imagecapSS1.png)
+![interface](imagecapSS1_new.png)
 
 <br>
 
-![interface](imagecapSS2.png)
+![interface](imagecapSS2_new.png)
 
 <br>
 
